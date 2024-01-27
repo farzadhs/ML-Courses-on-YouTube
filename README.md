@@ -31,7 +31,7 @@
 
 **Practical Machine Learning**
 
-    LLMOps: Building Real-World Applications With Large Language Models
+    [LLMOps: Building Real-World Applications With Large Language Models](#llmops-building-real-world-applications-with-large-language-models)
     Evaluating and Debugging Generative AI
     ChatGPT Prompt Engineering for Developers
     LangChain for LLM Application Development
