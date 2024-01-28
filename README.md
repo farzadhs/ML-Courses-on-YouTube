@@ -2,7 +2,7 @@
 
 **Machine Learning**
 
-    [Caltech CS156: Learning from Data](https://github.com/farzadhs/ML-Courses-on-YouTube/blob/main/README.md#caltech-cs156-learning-from-data)
+[Caltech CS156: Learning from Data](https://github.com/farzadhs/ML-Courses-on-YouTube/blob/main/README.md#caltech-cs156-learning-from-data)
     Stanford CS229: Machine Learning
     Making Friends with Machine Learning
     Applied Machine Learning
