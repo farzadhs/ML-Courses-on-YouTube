@@ -112,7 +112,7 @@ An introductory course in machine learning that covers the basic theory, algorit
     Lecture 17: Three Learning Principles
     Lecture 18: Epilogue
 
-🔗 Link to Course[https://www.youtube.com/playlist?list=PLD63A284B7615313A]
+🔗 [Link to Course](https://www.youtube.com/playlist?list=PLD63A284B7615313A)
 
 # Stanford CS229: Machine Learning
 
