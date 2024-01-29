@@ -2,7 +2,10 @@
 
 **Machine Learning**
 
-▪️ [CORNELL CS4780 : Machine Learning for Intelligent Systems]
+▪️ [CORNELL CS4780 : Machine Learning for Intelligent Systems](https://github.com/farzadhs/ML-Courses-on-YouTube/blob/main/README.md#cornell-cs4780-machine-learning-for-intelligent-systems)
+
+▪️ [Neural Networks for Machine Learning — Geoffrey Hinton, UofT [FULL COURSE]](
+
 ▪️ [Caltech CS156: Learning from Data](https://github.com/farzadhs/ML-Courses-on-YouTube/blob/main/README.md#caltech-cs156-learning-from-data)
 
 ▪️ [Stanford CS229: Machine Learning](https://github.com/farzadhs/ML-Courses-on-YouTube/blob/main/README.md#stanford-cs229-machine-learning)
@@ -193,6 +196,10 @@ A series of mini lectures covering various introductory topics in ML:
     Ensemble models ...
 
 🔗 [Link to Course](https://www.youtube.com/playlist?list=PLRKtJ4IpxJpDxl0NTvNYQWKCYzHNuy2xG)
+
+# Neural Networks for Machine Learning — Geoffrey Hinton, UofT
+
+▪️ [Neural Networks for Machine Learning — Geoffrey Hinton, UofT [FULL COURSE]](https://www.youtube.com/playlist?list=PLLssT5z_DsK_gyrQ_biidwvPYCRNGI3iv)
 
 # Neural Networks: Zero to Hero (by Andrej Karpathy)
 
