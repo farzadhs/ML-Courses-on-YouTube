@@ -4,13 +4,21 @@
 
 
 ▪️ [Caltech CS156: Learning from Data](https://github.com/farzadhs/ML-Courses-on-YouTube/blob/main/README.md#caltech-cs156-learning-from-data)
-▪️ Stanford CS229: Machine Learning
-▪️ Making Friends with Machine Learning
+
+▪️ [Stanford CS229: Machine Learning](https://github.com/farzadhs/ML-Courses-on-YouTube/blob/main/README.md#stanford-cs229-machine-learning)
+
+▪️ [Making Friends with Machine Learning](https://github.com/farzadhs/ML-Courses-on-YouTube/blob/main/README.md#making-friends-with-machine-learning)
+
 ▪️ Applied Machine Learning
-▪️ Introduction to Machine Learning (Tübingen)
+
+▪️ [Introduction to Machine Learning (Tübingen)](https://github.com/farzadhs/ML-Courses-on-YouTube/blob/main/README.md#introduction-to-machine-learning-t%C3%BCbingen)
+
 ▪️ Machine Learning Lecture (Stefan Harmeling)
+
 ▪️ Statistical Machine Learning (Tübingen)
+
 ▪️ Probabilistic Machine Learning
+
 ▪️ MIT 6.S897: Machine Learning for Healthcare (2019)
 
 **Deep Learning**
