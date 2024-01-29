@@ -7,13 +7,9 @@
 ▪️ [Caltech CS156: Learning from Data](https://github.com/farzadhs/ML-Courses-on-YouTube/blob/main/README.md#caltech-cs156-learning-from-data)
 ▪️ [Stanford CS229: Machine Learning](https://github.com/farzadhs/ML-Courses-on-YouTube/blob/main/README.md#stanford-cs229-machine-learning)
 ▪️ [Making Friends with Machine Learning](https://github.com/farzadhs/ML-Courses-on-YouTube/blob/main/README.md#making-friends-with-machine-learning)
-
 ▪️ [Applied Machine Learning](https://github.com/farzadhs/ML-Courses-on-YouTube/blob/main/README.md#applied-machine-learning)
-
 ▪️ [Introduction to Machine Learning (Tübingen)](https://github.com/farzadhs/ML-Courses-on-YouTube/blob/main/README.md#introduction-to-machine-learning-t%C3%BCbingen)
-
 ▪️ [Machine Learning Lecture (Stefan Harmeling)](https://github.com/farzadhs/ML-Courses-on-YouTube/blob/main/README.md#machine-learning-lecture-stefan-harmeling)
-
 ▪️ [Statistical Machine Learning (Tübingen)](https://github.com/farzadhs/ML-Courses-on-YouTube/blob/main/README.md#statistical-machine-learning-t%C3%BCbingen)
 
 ▪️ [Probabilistic Machine Learning](https://github.com/farzadhs/ML-Courses-on-YouTube/blob/main/README.md#probabilistic-machine-learning)
