@@ -23,37 +23,52 @@
 
 **Deep Learning**
 
-    Neural Networks: Zero to Hero
-    MIT: Deep Learning for Art, Aesthetics, and Creativity
-    Stanford CS230: Deep Learning (2018)
-    Introduction to Deep Learning (MIT)
-    CMU Introduction to Deep Learning (11-785)
-    Deep Learning: CS 182
-    Deep Unsupervised Learning
-    NYU Deep Learning SP21
-    Foundation Models
-    Deep Learning (Tübingen)
+Neural Networks: Zero to Hero
+
+MIT: Deep Learning for Art, Aesthetics, and Creativity
+
+Stanford CS230: Deep Learning (2018)
+
+Introduction to Deep Learning (MIT)
+
+CMU Introduction to Deep Learning (11-785)
+    
+Deep Learning: CS 182
+
+Deep Unsupervised Learning
+
+NYU Deep Learning SP21
+
+Foundation Models
+
+Deep Learning (Tübingen)
 
 **Scientific Machine Learning**
 
-    Parallel Computing and Scientific Machine Learning
+Parallel Computing and Scientific Machine Learning
 
 **Practical Machine Learning**
 
-    LLMOps: Building Real-World Applications With Large Language Models
-    Evaluating and Debugging Generative AI
-    ChatGPT Prompt Engineering for Developers
-    LangChain for LLM Application Development
-    LangChain: Chat with Your Data
-    Building Systems with the ChatGPT API
-    LangChain & Vector Databases in Production
-    Building LLM-Powered Apps
-    Full Stack LLM Bootcamp
-    Full Stack Deep Learning
-    Practical Deep Learning for Coders
-    Stanford MLSys Seminars
-    Machine Learning Engineering for Production (MLOps)
-    MIT Introduction to Data-Centric AI
+LLMOps: Building Real-World Applications With Large Language Models
+Evaluating and Debugging Generative AI
+ChatGPT Prompt Engineering for Developers
+LangChain for LLM Application Development
+LangChain: Chat with Your Data
+Building Systems with the ChatGPT API
+LangChain & Vector Databases in Production
+Building LLM-Powered Apps
+
+Full Stack LLM Bootcamp
+
+Full Stack Deep Learning
+
+Practical Deep Learning for Coders
+
+Stanford MLSys Seminars
+
+Machine Learning Engineering for Production (MLOps)
+
+MIT Introduction to Data-Centric AI
 
 **Natural Language Processing**
 
