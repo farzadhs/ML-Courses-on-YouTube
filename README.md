@@ -23,117 +23,119 @@
 
 **Deep Learning**
 
-[Neural Networks: Zero to Hero](https://github.com/farzadhs/ML-Courses-on-YouTube/blob/main/README.md#neural-networks-zero-to-hero-by-andrej-karpathy)
+▪️ [Neural Networks: Zero to Hero](https://github.com/farzadhs/ML-Courses-on-YouTube/blob/main/README.md#neural-networks-zero-to-hero-by-andrej-karpathy)
 
-[MIT: Deep Learning for Art, Aesthetics, and Creativity](https://github.com/farzadhs/ML-Courses-on-YouTube/blob/main/README.md#mit-deep-learning-for-art-aesthetics-and-creativity)
+▪️ [MIT: Deep Learning for Art, Aesthetics, and Creativity](https://github.com/farzadhs/ML-Courses-on-YouTube/blob/main/README.md#mit-deep-learning-for-art-aesthetics-and-creativity)
 
-[Stanford CS230: Deep Learning (2018)](https://github.com/farzadhs/ML-Courses-on-YouTube/blob/main/README.md#stanford-cs230-deep-learning-2018)
+▪️ [Stanford CS230: Deep Learning (2018)](https://github.com/farzadhs/ML-Courses-on-YouTube/blob/main/README.md#stanford-cs230-deep-learning-2018)
 
-[Introduction to Deep Learning](https://github.com/farzadhs/ML-Courses-on-YouTube/blob/main/README.md#introduction-to-deep-learning)
+▪️ [Introduction to Deep Learning](https://github.com/farzadhs/ML-Courses-on-YouTube/blob/main/README.md#introduction-to-deep-learning)
 
-[CMU Introduction to Deep Learning (11-785)](https://github.com/farzadhs/ML-Courses-on-YouTube/blob/main/README.md#cmu-introduction-to-deep-learning-11-785)
+▪️ [CMU Introduction to Deep Learning (11-785)](https://github.com/farzadhs/ML-Courses-on-YouTube/blob/main/README.md#cmu-introduction-to-deep-learning-11-785)
     
-[Deep Learning: CS 182](https://github.com/farzadhs/ML-Courses-on-YouTube/blob/main/README.md#deep-learning-cs-182)
+▪️ [Deep Learning: CS 182](https://github.com/farzadhs/ML-Courses-on-YouTube/blob/main/README.md#deep-learning-cs-182)
 
-[Deep Unsupervised Learning](https://github.com/farzadhs/ML-Courses-on-YouTube/blob/main/README.md#deep-unsupervised-learning)
+▪️ [Deep Unsupervised Learning](https://github.com/farzadhs/ML-Courses-on-YouTube/blob/main/README.md#deep-unsupervised-learning)
 
-[NYU Deep Learning SP21](https://github.com/farzadhs/ML-Courses-on-YouTube/blob/main/README.md#nyu-deep-learning-sp21)
+▪️ [NYU Deep Learning SP21](https://github.com/farzadhs/ML-Courses-on-YouTube/blob/main/README.md#nyu-deep-learning-sp21)
 
-[Foundation Models](https://github.com/farzadhs/ML-Courses-on-YouTube/blob/main/README.md#foundation-models)
+▪️ [Foundation Models](https://github.com/farzadhs/ML-Courses-on-YouTube/blob/main/README.md#foundation-models)
 
-[Deep Learning (Tübingen)](https://github.com/farzadhs/ML-Courses-on-YouTube/blob/main/README.md#deep-learning-t%C3%BCbingen)
+▪️ [Deep Learning (Tübingen)](https://github.com/farzadhs/ML-Courses-on-YouTube/blob/main/README.md#deep-learning-t%C3%BCbingen)
 
 **Scientific Machine Learning**
 
-[Parallel Computing and Scientific Machine Learning](https://github.com/farzadhs/ML-Courses-on-YouTube/blob/main/README.md#parallel-computing-and-scientific-machine-learning)
+▪️ [Parallel Computing and Scientific Machine Learning](https://github.com/farzadhs/ML-Courses-on-YouTube/blob/main/README.md#parallel-computing-and-scientific-machine-learning)
 
 **Practical Machine Learning**
 
-LLMOps: Building Real-World Applications With Large Language Models
+▪️ [LLMOps: Building Real-World Applications With Large Language Models](https://github.com/farzadhs/ML-Courses-on-YouTube#llmops-building-real-world-applications-with-large-language-models)
 
-Evaluating and Debugging Generative AI
+▪️ [Evaluating and Debugging Generative AI](https://github.com/farzadhs/ML-Courses-on-YouTube#evaluating-and-debugging-generative-ai)
 
-ChatGPT Prompt Engineering for Developers
+▪️ [ChatGPT Prompt Engineering for Developers](https://github.com/farzadhs/ML-Courses-on-YouTube#chatgpt-prompt-engineering-for-developers)
 
-LangChain for LLM Application Development
+▪️ [LangChain for LLM Application Development](https://github.com/farzadhs/ML-Courses-on-YouTube#langchain-for-llm-application-development)
 
-LangChain: Chat with Your Data
+▪️ [LangChain: Chat with Your Data](https://github.com/farzadhs/ML-Courses-on-YouTube#langchain-chat-with-your-data)
 
-Building Systems with the ChatGPT API
+▪️ [Building Systems with the ChatGPT API](https://github.com/farzadhs/ML-Courses-on-YouTube#building-systems-with-the-chatgpt-api)
 
-LangChain & Vector Databases in Production
+▪️ [LangChain & Vector Databases in Production](https://github.com/farzadhs/ML-Courses-on-YouTube#langchain--vector-databases-in-production)
 
-Building LLM-Powered Apps
+▪️ [Building LLM-Powered Apps](https://github.com/farzadhs/ML-Courses-on-YouTube#building-llm-powered-apps)
 
-Full Stack LLM Bootcamp
+▪️ [Full Stack LLM Bootcamp](https://github.com/farzadhs/ML-Courses-on-YouTube#full-stack-llm-bootcamp)
 
-Full Stack Deep Learning
+▪️ [Full Stack Deep Learning](https://github.com/farzadhs/ML-Courses-on-YouTube#full-stack-deep-learning)
 
-Practical Deep Learning for Coders
+▪️ [Practical Deep Learning for Coders](https://github.com/farzadhs/ML-Courses-on-YouTube#practical-deep-learning-for-coders)
 
-Stanford MLSys Seminars
+▪️ [Stanford MLSys Seminars](https://github.com/farzadhs/ML-Courses-on-YouTube#stanford-mlsys-seminars)
 
-Machine Learning Engineering for Production (MLOps)
+▪️ [Machine Learning Engineering for Production (MLOps)](https://github.com/farzadhs/ML-Courses-on-YouTube#machine-learning-engineering-for-production-mlops)
 
-MIT Introduction to Data-Centric AI
+▪️ [MIT Introduction to Data-Centric AI](https://github.com/farzadhs/ML-Courses-on-YouTube#mit-introduction-to-data-centric-ai)
 
 **Natural Language Processing**
 
-XCS224U: Natural Language Understanding (2023)
+▪️ [XCS224U: Natural Language Understanding (2023)](https://github.com/farzadhs/ML-Courses-on-YouTube#xcs224u-natural-language-understanding-2023)
 
-Stanford CS25 - Transformers United
+▪️ [Stanford CS25 - Transformers United](https://github.com/farzadhs/ML-Courses-on-YouTube#stanford-cs25---transformers-united)
 
-NLP Course (Hugging Face)
+▪️ [NLP Course (Hugging Face)](https://github.com/farzadhs/ML-Courses-on-YouTube#nlp-course-hugging-face)
 
-CS224N: Natural Language Processing with Deep Learning
+▪️ [CS224N: Natural Language Processing with Deep Learning](https://github.com/farzadhs/ML-Courses-on-YouTube#cs224n-natural-language-processing-with-deep-learning)
 
-CMU Neural Networks for NLP
+▪️ [CMU Neural Networks for NLP](https://github.com/farzadhs/ML-Courses-on-YouTube#cmu-neural-networks-for-nlp)
 
-CS224U: Natural Language Understanding
+▪️ [CS224U: Natural Language Understanding](https://github.com/farzadhs/ML-Courses-on-YouTube#cs224u-natural-language-understanding)
 
-CMU Advanced NLP 2021/2022/2024
+▪️ [CMU Advanced NLP 2021/2022/2024](https://github.com/farzadhs/ML-Courses-on-YouTube#cmu-advanced-nlp)
 
-Multilingual NLP
+▪️ [Multilingual NLP](https://github.com/farzadhs/ML-Courses-on-YouTube#multilingual-nlp)
 
-Advanced NLP
+▪️ [Advanced NLP](https://github.com/farzadhs/ML-Courses-on-YouTube#advanced-nlp)
 
 **Computer Vision**
 
-CS231N: Convolutional Neural Networks for Visual Recognition
+▪️ [CS231N: Convolutional Neural Networks for Visual Recognition](https://github.com/farzadhs/ML-Courses-on-YouTube#cs231n-convolutional-neural-networks-for-visual-recognition)
 
-Deep Learning for Computer Vision
+▪️ [Deep Learning for Computer Vision](https://github.com/farzadhs/ML-Courses-on-YouTube#deep-learning-for-computer-vision)
 
-Deep Learning for Computer Vision (DL4CV)
+▪️ [Deep Learning for Computer Vision (DL4CV)](https://github.com/farzadhs/ML-Courses-on-YouTube#deep-learning-for-computer-vision-dl4cv)
 
-Deep Learning for Computer Vision (neuralearn.ai)
+▪️ [Deep Learning for Computer Vision (neuralearn.ai)](https://github.com/farzadhs/ML-Courses-on-YouTube#deep-learning-for-computer-vision-neuralearnai)
 
 **Reinforcement Learning**
 
-Deep Reinforcement Learning
+▪️ [Deep Reinforcement Learning](https://github.com/farzadhs/ML-Courses-on-YouTube#deep-reinforcement-learning)
 
-Reinforcement Learning Lecture Series (DeepMind)
+▪️ [Reinforcement Learning Lecture Series (DeepMind)](https://github.com/farzadhs/ML-Courses-on-YouTube#reinforcement-learning-lecture-series-deepmind)
 
-Reinforcement Learning (Polytechnique Montreal, Fall 2021)
+▪️ [Reinforcement Learning (Polytechnique Montreal, Fall 2021)](https://github.com/farzadhs/ML-Courses-on-YouTube#reinforcement-learning-polytechnique-montreal-fall-2021)
 
-Foundations of Deep RL
+▪️ [Foundations of Deep RL](https://github.com/farzadhs/ML-Courses-on-YouTube#foundations-of-deep-rl)
 
-Stanford CS234: Reinforcement Learning
+▪️ [Stanford CS234: Reinforcement Learning](https://github.com/farzadhs/ML-Courses-on-YouTube#stanford-cs234-reinforcement-learning)
 
 **Graph Machine Learning**
 
-Machine Learning with Graphs (Stanford)
+▪️ [Machine Learning with Graphs (Stanford)](https://github.com/farzadhs/ML-Courses-on-YouTube#machine-learning-with-graphs-stanford)
 
-AMMI Geometric Deep Learning Course
+▪️ [AMMI Geometric Deep Learning Course](https://github.com/farzadhs/ML-Courses-on-YouTube#ammi-geometric-deep-learning-course)
 
 **Multi-Task Learning**
 
-    Multi-Task and Meta-Learning (Stanford)
+▪️ [Multi-Task and Meta-Learning (Stanford)](https://github.com/farzadhs/ML-Courses-on-YouTube#stanford-cs330-deep-multi-task-and-meta-learning)
 
 **Others**
 
-    MIT Deep Learning in Life Sciences
-    Self-Driving Cars (Tübingen)
-    Advanced Robotics (Berkeley)
+▪️ [MIT Deep Learning in Life Sciences](https://github.com/farzadhs/ML-Courses-on-YouTube#mit-deep-learning-in-life-sciences)
+
+▪️ [Self-Driving Cars (Tübingen)](https://github.com/farzadhs/ML-Courses-on-YouTube#self-driving-cars-t%C3%BCbingen)
+
+▪️ [Advanced Robotics (Berkeley)](https://github.com/farzadhs/ML-Courses-on-YouTube#advanced-robotics-uc-berkeley)
 
 
 # Caltech CS156: Learning from Data
