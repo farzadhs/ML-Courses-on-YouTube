@@ -2,7 +2,7 @@
 
 **Machine Learning**
 
-
+▪️ [CORNELL CS4780 : Machine Learning for Intelligent Systems]
 ▪️ [Caltech CS156: Learning from Data](https://github.com/farzadhs/ML-Courses-on-YouTube/blob/main/README.md#caltech-cs156-learning-from-data)
 
 ▪️ [Stanford CS229: Machine Learning](https://github.com/farzadhs/ML-Courses-on-YouTube/blob/main/README.md#stanford-cs229-machine-learning)
@@ -137,6 +137,9 @@
 
 ▪️ [Advanced Robotics (Berkeley)](https://github.com/farzadhs/ML-Courses-on-YouTube#advanced-robotics-uc-berkeley)
 
+#  CORNELL CS4780: Machine Learning for Intelligent Systems
+
+▪ [Machine Learning for Intelligent Systems](https://www.youtube.com/playlist?list=PLl8OlHZGYOQ7bkVbuRthEsaLr7bONzbXS)
 
 # Caltech CS156: Learning from Data
 
