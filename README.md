@@ -4,7 +4,7 @@
 
 ▪️ [CORNELL CS4780 : Machine Learning for Intelligent Systems](https://github.com/farzadhs/ML-Courses-on-YouTube/blob/main/README.md#cornell-cs4780-machine-learning-for-intelligent-systems)
 
-▪️ [Neural Networks for Machine Learning — Geoffrey Hinton, UofT [FULL COURSE]](
+▪️ [Neural Networks for Machine Learning — Geoffrey Hinton, UofT [FULL COURSE]](https://github.com/farzadhs/ML-Courses-on-YouTube/blob/main/README.md#neural-networks-for-machine-learning--geoffrey-hinton-uoft)
 
 ▪️ [Caltech CS156: Learning from Data](https://github.com/farzadhs/ML-Courses-on-YouTube/blob/main/README.md#caltech-cs156-learning-from-data)
 
@@ -143,6 +143,8 @@
 #  CORNELL CS4780: Machine Learning for Intelligent Systems
 
 ▪ [Machine Learning for Intelligent Systems](https://www.youtube.com/playlist?list=PLl8OlHZGYOQ7bkVbuRthEsaLr7bONzbXS)
+
+▪ [lecture notes]( http://www.cs.cornell.edu/courses/cs4780/2018fa/lectures/index.html)  ▪ [Official class webpage]( http://www.cs.cornell.edu/courses/cs4780/2018fa/)
 
 # Caltech CS156: Learning from Data
 
