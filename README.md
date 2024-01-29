@@ -25,7 +25,7 @@
 
 [Neural Networks: Zero to Hero](https://github.com/farzadhs/ML-Courses-on-YouTube/blob/main/README.md#neural-networks-zero-to-hero-by-andrej-karpathy)
 
-[MIT: Deep Learning for Art, Aesthetics, and Creativity](https://github.com/farzadhs/ML-Courses-on-YouTube/blob/main/README.md#mit-deep-learning-for-art-aesthetics-and-creativity
+[MIT: Deep Learning for Art, Aesthetics, and Creativity](https://github.com/farzadhs/ML-Courses-on-YouTube/blob/main/README.md#mit-deep-learning-for-art-aesthetics-and-creativity)
 
 [Stanford CS230: Deep Learning (2018)](https://github.com/farzadhs/ML-Courses-on-YouTube/blob/main/README.md#stanford-cs230-deep-learning-2018)
 
