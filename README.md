@@ -9,53 +9,60 @@
 
 ▪️ [Making Friends with Machine Learning](https://github.com/farzadhs/ML-Courses-on-YouTube/blob/main/README.md#making-friends-with-machine-learning)
 
-▪️ Applied Machine Learning
+▪️ [Applied Machine Learning](https://github.com/farzadhs/ML-Courses-on-YouTube/blob/main/README.md#applied-machine-learning)
 
 ▪️ [Introduction to Machine Learning (Tübingen)](https://github.com/farzadhs/ML-Courses-on-YouTube/blob/main/README.md#introduction-to-machine-learning-t%C3%BCbingen)
 
-▪️ Machine Learning Lecture (Stefan Harmeling)
+▪️ [Machine Learning Lecture (Stefan Harmeling)](https://github.com/farzadhs/ML-Courses-on-YouTube/blob/main/README.md#machine-learning-lecture-stefan-harmeling)
 
-▪️ Statistical Machine Learning (Tübingen)
+▪️ [Statistical Machine Learning (Tübingen)](https://github.com/farzadhs/ML-Courses-on-YouTube/blob/main/README.md#statistical-machine-learning-t%C3%BCbingen)
 
-▪️ Probabilistic Machine Learning
+▪️ [Probabilistic Machine Learning](https://github.com/farzadhs/ML-Courses-on-YouTube/blob/main/README.md#probabilistic-machine-learning)
 
-▪️ MIT 6.S897: Machine Learning for Healthcare (2019)
+▪️ [MIT 6.S897: Machine Learning for Healthcare (2019)](https://github.com/farzadhs/ML-Courses-on-YouTube/blob/main/README.md#mit-6s897-machine-learning-for-healthcare-2019)
 
 **Deep Learning**
 
-Neural Networks: Zero to Hero
+[Neural Networks: Zero to Hero](https://github.com/farzadhs/ML-Courses-on-YouTube/blob/main/README.md#neural-networks-zero-to-hero-by-andrej-karpathy)
 
-MIT: Deep Learning for Art, Aesthetics, and Creativity
+[MIT: Deep Learning for Art, Aesthetics, and Creativity](https://github.com/farzadhs/ML-Courses-on-YouTube/blob/main/README.md#mit-deep-learning-for-art-aesthetics-and-creativity
 
-Stanford CS230: Deep Learning (2018)
+[Stanford CS230: Deep Learning (2018)](https://github.com/farzadhs/ML-Courses-on-YouTube/blob/main/README.md#stanford-cs230-deep-learning-2018)
 
-Introduction to Deep Learning (MIT)
+[Introduction to Deep Learning](https://github.com/farzadhs/ML-Courses-on-YouTube/blob/main/README.md#introduction-to-deep-learning)
 
-CMU Introduction to Deep Learning (11-785)
+[CMU Introduction to Deep Learning (11-785)](https://github.com/farzadhs/ML-Courses-on-YouTube/blob/main/README.md#cmu-introduction-to-deep-learning-11-785)
     
-Deep Learning: CS 182
+[Deep Learning: CS 182](https://github.com/farzadhs/ML-Courses-on-YouTube/blob/main/README.md#deep-learning-cs-182)
 
-Deep Unsupervised Learning
+[Deep Unsupervised Learning](https://github.com/farzadhs/ML-Courses-on-YouTube/blob/main/README.md#deep-unsupervised-learning)
 
-NYU Deep Learning SP21
+[NYU Deep Learning SP21](https://github.com/farzadhs/ML-Courses-on-YouTube/blob/main/README.md#nyu-deep-learning-sp21)
 
-Foundation Models
+[Foundation Models](https://github.com/farzadhs/ML-Courses-on-YouTube/blob/main/README.md#foundation-models)
 
-Deep Learning (Tübingen)
+[Deep Learning (Tübingen)](https://github.com/farzadhs/ML-Courses-on-YouTube/blob/main/README.md#deep-learning-t%C3%BCbingen)
 
 **Scientific Machine Learning**
 
-Parallel Computing and Scientific Machine Learning
+[Parallel Computing and Scientific Machine Learning](https://github.com/farzadhs/ML-Courses-on-YouTube/blob/main/README.md#parallel-computing-and-scientific-machine-learning)
 
 **Practical Machine Learning**
 
 LLMOps: Building Real-World Applications With Large Language Models
+
 Evaluating and Debugging Generative AI
+
 ChatGPT Prompt Engineering for Developers
+
 LangChain for LLM Application Development
+
 LangChain: Chat with Your Data
+
 Building Systems with the ChatGPT API
+
 LangChain & Vector Databases in Production
+
 Building LLM-Powered Apps
 
 Full Stack LLM Bootcamp
@@ -72,35 +79,51 @@ MIT Introduction to Data-Centric AI
 
 **Natural Language Processing**
 
-    XCS224U: Natural Language Understanding (2023)
-    Stanford CS25 - Transformers United
-    NLP Course (Hugging Face)
-    CS224N: Natural Language Processing with Deep Learning
-    CMU Neural Networks for NLP
-    CS224U: Natural Language Understanding
-    CMU Advanced NLP 2021/2022/2024
-    Multilingual NLP
-    Advanced NLP
+XCS224U: Natural Language Understanding (2023)
+
+Stanford CS25 - Transformers United
+
+NLP Course (Hugging Face)
+
+CS224N: Natural Language Processing with Deep Learning
+
+CMU Neural Networks for NLP
+
+CS224U: Natural Language Understanding
+
+CMU Advanced NLP 2021/2022/2024
+
+Multilingual NLP
+
+Advanced NLP
 
 **Computer Vision**
 
-    CS231N: Convolutional Neural Networks for Visual Recognition
-    Deep Learning for Computer Vision
-    Deep Learning for Computer Vision (DL4CV)
-    Deep Learning for Computer Vision (neuralearn.ai)
+CS231N: Convolutional Neural Networks for Visual Recognition
+
+Deep Learning for Computer Vision
+
+Deep Learning for Computer Vision (DL4CV)
+
+Deep Learning for Computer Vision (neuralearn.ai)
 
 **Reinforcement Learning**
 
-    Deep Reinforcement Learning
-    Reinforcement Learning Lecture Series (DeepMind)
-    Reinforcement Learning (Polytechnique Montreal, Fall 2021)
-    Foundations of Deep RL
-    Stanford CS234: Reinforcement Learning
+Deep Reinforcement Learning
+
+Reinforcement Learning Lecture Series (DeepMind)
+
+Reinforcement Learning (Polytechnique Montreal, Fall 2021)
+
+Foundations of Deep RL
+
+Stanford CS234: Reinforcement Learning
 
 **Graph Machine Learning**
 
-    Machine Learning with Graphs (Stanford)
-    AMMI Geometric Deep Learning Course
+Machine Learning with Graphs (Stanford)
+
+AMMI Geometric Deep Learning Course
 
 **Multi-Task Learning**
 
