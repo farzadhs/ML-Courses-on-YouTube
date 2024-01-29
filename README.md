@@ -624,7 +624,7 @@ To learn some of the fundamental concepts in CV:
     Detection and Segmentation
     Generative Models
 
-🔗 [Link to Course](https://www.youtube.com/playlist?list=PL5-TkQAfAZFbzxjBHtzdVCWE0Zbhomg7r0
+🔗 [Link to Course](https://www.youtube.com/playlist?list=PL5-TkQAfAZFbzxjBHtzdVCWE0Zbhomg7r0)
 
 # Deep Learning for Computer Vision (DL4CV)
 
