@@ -144,7 +144,8 @@
 
 ▪ [Machine Learning for Intelligent Systems](https://www.youtube.com/playlist?list=PLl8OlHZGYOQ7bkVbuRthEsaLr7bONzbXS)
 
-▪ [lecture notes]( http://www.cs.cornell.edu/courses/cs4780/2018fa/lectures/index.html)  ▪ [Official class webpage]( http://www.cs.cornell.edu/courses/cs4780/2018fa/)
+▪ [lecture notes]( http://www.cs.cornell.edu/courses/cs4780/2018fa/lectures/index.html)  
+▪ [Official class webpage]( http://www.cs.cornell.edu/courses/cs4780/2018fa/)
 
 # Caltech CS156: Learning from Data
 
