@@ -82,7 +82,7 @@
 
 **Natural Language Processing**
 
-[LLM Multimodel](https://www.youtube.com/playlist?list=PL95lT3XlM14QywYg8k6utMOQVyvZHT2vi)
+▪️ [LLM Multimodel](https://github.com/farzadhs/ML-Courses-on-YouTube/blob/main/README.md#llm-multimodel)
 
 ▪️ [XCS224U: Natural Language Understanding (2023)](https://github.com/farzadhs/ML-Courses-on-YouTube#xcs224u-natural-language-understanding-2023)
 
@@ -479,7 +479,12 @@ This course introduces the practical and theoretical principles of deep neural n
 
 🔗 [LLM Multimodel](https://www.youtube.com/playlist?list=PL95lT3XlM14QywYg8k6utMOQVyvZHT2vi)
 
-
+      🔴 Responsible AI
+      🔴 Chirp
+      🔴 Codey
+      🔴 MedPaLM 2
+          more
+          
 # XCS224U: Natural Language Understanding (2023)
 
 This course covers topics such as:
