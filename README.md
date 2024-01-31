@@ -1,5 +1,9 @@
 # 📺 ML-YouTube-Courses
 
+**Mathematics for AI**
+
+📽  [Gilbert Strang lectures on Linear Algebra (MIT)]()
+
 **Machine Learning**
 
 ▪️ [CORNELL CS4780 : Machine Learning for Intelligent Systems](https://github.com/farzadhs/ML-Courses-on-YouTube/blob/main/README.md#cornell-cs4780-machine-learning-for-intelligent-systems)
@@ -148,6 +152,12 @@
 
 ▪ [lecture notes]( http://www.cs.cornell.edu/courses/cs4780/2018fa/lectures/index.html)  
 ▪ [Official class webpage]( http://www.cs.cornell.edu/courses/cs4780/2018fa/)
+
+# MATHEMATICS FOR AI
+
+📽 [Gilbert Strang lectures on Linear Algebra (MIT)](https://www.youtube.com/playlist?list=PL49CF3715CB9EF31D)
+
+🔗 [Mathematics for Ai | Persian Course]( https://www.youtube.com/playlist?list=PLe_DUrcBPdbIRye6Dw_UdhR8a7Zqvb_BA)
 
 # Caltech CS156: Learning from Data
 
