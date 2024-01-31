@@ -82,6 +82,8 @@
 
 **Natural Language Processing**
 
+[LLM Multimodel](https://www.youtube.com/playlist?list=PL95lT3XlM14QywYg8k6utMOQVyvZHT2vi)
+
 ▪️ [XCS224U: Natural Language Understanding (2023)](https://github.com/farzadhs/ML-Courses-on-YouTube#xcs224u-natural-language-understanding-2023)
 
 ▪️ [Stanford CS25 - Transformers United](https://github.com/farzadhs/ML-Courses-on-YouTube#stanford-cs25---transformers-united)
@@ -472,6 +474,11 @@ This course introduces the practical and theoretical principles of deep neural n
     Globalizing the Understanding of Models
 
 🔗 [Link to Course](https://www.youtube.com/playlist?list=PLCAl7tjCwWyGjdzOOnlbGnVNZk0kB8VSa)
+
+# LLM Multimodel
+
+🔗 [LLM Multimodel](https://www.youtube.com/playlist?list=PL95lT3XlM14QywYg8k6utMOQVyvZHT2vi)
+
 
 # XCS224U: Natural Language Understanding (2023)
 
