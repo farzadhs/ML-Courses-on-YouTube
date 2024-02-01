@@ -34,6 +34,8 @@
 
 **Deep Learning**
 
+▪️ [Deep Learning Summer School, Montreal 2015-2016]()
+
 ▪️ [Neural Networks: Zero to Hero](https://github.com/farzadhs/ML-Courses-on-YouTube/blob/main/README.md#neural-networks-zero-to-hero-by-andrej-karpathy)
 
 ▪️ [MIT: Deep Learning for Art, Aesthetics, and Creativity](https://github.com/farzadhs/ML-Courses-on-YouTube/blob/main/README.md#mit-deep-learning-for-art-aesthetics-and-creativity)
@@ -162,6 +164,12 @@
 
 ▪ [lecture notes]( http://www.cs.cornell.edu/courses/cs4780/2018fa/lectures/index.html)  
 ▪ [Official class webpage]( http://www.cs.cornell.edu/courses/cs4780/2018fa/)
+
+# [Deep Learning Summer School, Montreal 2015-2016]()
+
+▪️ [Deep Learning Summer School, Montreal 2015](http://videolectures.net/deeplearning2015_montreal/)
+
+▪️ [Deep Learning Summer School, Montreal 2015](http://videolectures.net/deeplearning2016_montreal/)
 
 # MATHEMATICS FOR AI
 
