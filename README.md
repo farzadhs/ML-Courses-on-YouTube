@@ -2,6 +2,8 @@
 
 **Mathematics for AI**
 
+📽 [ Mathematics for Ai | Persian Course](https://github.com/farzadhs/ML-Courses-on-YouTube#mathematics-for-ai)
+
 📽  [Gilbert Strang lectures on Linear Algebra (MIT)](https://github.com/farzadhs/ML-Courses-on-YouTube#mathematics-for-ai)
 
 **Machine Learning**
