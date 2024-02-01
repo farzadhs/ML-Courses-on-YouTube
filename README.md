@@ -2,7 +2,7 @@
 
 **Mathematics for AI**
 
-📽  [Gilbert Strang lectures on Linear Algebra (MIT)]()
+📽  [Gilbert Strang lectures on Linear Algebra (MIT)](https://github.com/farzadhs/ML-Courses-on-YouTube#mathematics-for-ai)
 
 **Machine Learning**
 
