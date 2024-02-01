@@ -8,7 +8,7 @@
 
 **Machine Learning**
 
-▪️ [Machine Learning Summer School 2013-2017 Tübingen]()
+▪️ [Machine Learning Summer School 2013-2017 Tübingen](https://github.com/farzadhs/ML-Courses-on-YouTube/blob/main/README.md#machine-learning-summer-school-2013-2017-t%C3%BCbingen)
 
 ▪️ [CORNELL CS4780 : Machine Learning for Intelligent Systems](https://github.com/farzadhs/ML-Courses-on-YouTube/blob/main/README.md#cornell-cs4780-machine-learning-for-intelligent-systems)
 
@@ -145,7 +145,8 @@
 # Machine Learning Summer School 2013-2017 Tübingen
 
 ▪️ [Machine Learning Summer School 2013 Tübingen](https://www.youtube.com/playlist?list=PLqJm7Rc5-EXFv6RXaPZzzlzo93Hl0v91E)
-▪️ [Machine Learning Summer School 2017 Tübingen] (https://www.youtube.com/playlist?list=PLqJm7Rc5-EXFUOvoYCdKikfck8YeUCnl9)
+
+▪️ [Machine Learning Summer School 2017 Tübingen](https://www.youtube.com/playlist?list=PLqJm7Rc5-EXFUOvoYCdKikfck8YeUCnl9)
 
 **Others**
 
