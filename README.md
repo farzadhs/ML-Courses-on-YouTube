@@ -8,6 +8,8 @@
 
 **Machine Learning**
 
+▪️ [Machine Learning Summer School 2013-2017 Tübingen]()
+
 ▪️ [CORNELL CS4780 : Machine Learning for Intelligent Systems](https://github.com/farzadhs/ML-Courses-on-YouTube/blob/main/README.md#cornell-cs4780-machine-learning-for-intelligent-systems)
 
 ▪️ [Neural Networks for Machine Learning — Geoffrey Hinton, UofT [FULL COURSE]](https://github.com/farzadhs/ML-Courses-on-YouTube/blob/main/README.md#neural-networks-for-machine-learning--geoffrey-hinton-uoft)
@@ -139,6 +141,11 @@
 **Multi-Task Learning**
 
 ▪️ [Multi-Task and Meta-Learning (Stanford)](https://github.com/farzadhs/ML-Courses-on-YouTube#stanford-cs330-deep-multi-task-and-meta-learning)
+
+# Machine Learning Summer School 2013-2017 Tübingen
+
+▪️ [Machine Learning Summer School 2013 Tübingen](https://www.youtube.com/playlist?list=PLqJm7Rc5-EXFv6RXaPZzzlzo93Hl0v91E)
+▪️ [Machine Learning Summer School 2017 Tübingen] (https://www.youtube.com/playlist?list=PLqJm7Rc5-EXFUOvoYCdKikfck8YeUCnl9)
 
 **Others**
 
