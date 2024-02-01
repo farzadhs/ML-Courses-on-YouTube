@@ -34,7 +34,7 @@
 
 **Deep Learning**
 
-▪️ [Deep Learning Summer School, Montreal 2015-2016]()
+▪️ [Deep Learning Summer School, Montreal 2015-2016](https://github.com/farzadhs/ML-Courses-on-YouTube/tree/main#deep-learning-summer-school-montreal-2015-2016)
 
 ▪️ [Neural Networks: Zero to Hero](https://github.com/farzadhs/ML-Courses-on-YouTube/blob/main/README.md#neural-networks-zero-to-hero-by-andrej-karpathy)
 
