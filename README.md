@@ -91,7 +91,7 @@
 ▪️ [MIT Introduction to Data-Centric AI](https://github.com/farzadhs/ML-Courses-on-YouTube#mit-introduction-to-data-centric-ai)
 
 **Natural Language Processing**
-
+▪️ [UMass CS685: Advanced Natural Language Processing (Spring 2023) ](
 ▪️ [LLM Multimodel](https://github.com/farzadhs/ML-Courses-on-YouTube/blob/main/README.md#llm-multimodel)
 
 ▪️ [XCS224U: Natural Language Understanding (2023)](https://github.com/farzadhs/ML-Courses-on-YouTube#xcs224u-natural-language-understanding-2023)
@@ -216,6 +216,10 @@ To learn some of the basics of ML:
     Debugging ML Models ...
 
 🔗 [Link to Course](https://www.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU)
+
+#  UMass CS685: Advanced Natural Language Processing (Spring 2023) 
+
+🔗 [Link to Course](https://www.youtube.com/playlist?list=PLWnsVgP6CzaelCF_jmn5HrpOXzRAPNjWj)
 
 # Making Friends with Machine Learning
 
