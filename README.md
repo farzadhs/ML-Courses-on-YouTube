@@ -34,6 +34,8 @@
 
 **Deep Learning**
 
+▪️ [Foundations of Deep Learning- Soheil Feizi ]()
+
 ▪️ [Deep Learning Summer School, Montreal 2015-2016](https://github.com/farzadhs/ML-Courses-on-YouTube/tree/main#deep-learning-summer-school-montreal-2015-2016)
 
 ▪️ [Neural Networks: Zero to Hero](https://github.com/farzadhs/ML-Courses-on-YouTube/blob/main/README.md#neural-networks-zero-to-hero-by-andrej-karpathy)
@@ -248,6 +250,12 @@ Course providing an in-depth overview of neural networks.
     Becoming a Backprop Ninja
 
 🔗 [Link to Course](https://www.youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ)
+
+# Foundations of Deep Learning- Soheil Feizi 
+
+Diffusion models, LLMs, multi-modal models, reasoning, etc) 
+
+🔗 [Link to Course](https://www.youtube.com/playlist?list=PLHgjs9ncvHi80UCSlSvQe-TK_uOyDv_Jf)
 
 # MIT: Deep Learning for Art, Aesthetics, and Creativity
 
