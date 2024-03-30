@@ -204,6 +204,15 @@ An introductory course in machine learning that covers the basic theory, algorit
 
 🔗 [Link to Course](https://www.youtube.com/playlist?list=PLD63A284B7615313A)
 
+#  Introduction to Reinforcement Learning 
+
+🔗 [Link to Course](https://www.youtube.com/playlist?list=PLCveiXxL2xNbiDq51a8iJwPRq2aO0ykrq)
+
+# Introduction to Machine Learning (CSC2515 - Fall 2021), Department of Computer Science, University of Toronto.
+
+🔗 [Link to Course](https://www.youtube.com/playlist?list=PLCveiXxL2xNZRg7PVp-JM4teSmaBETksy)
+
+
 # Stanford CS229: Machine Learning
 
 To learn some of the basics of ML:
