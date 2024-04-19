@@ -412,6 +412,16 @@ To learn some of the latest graph techniques in machine learning:
 
 🔗 [Link to Course](https://www.youtube.com/playlist?list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn)
 
+# ▪️ Deep Generative Models
+
+🎥  20 hours of video lectures
+
+✨  17 sets of slides
+
+📖  Lecture notes
+
+🔗 [Link to Course](https://m.youtube.com/playlist?list=PL2UML_KCiC0UPzjW9BjO-IW6dqliu9O4B) [Site](https://kuleshov-group.github.io/dgm-website/)
+
 # Probabilistic Machine Learning
 
 To learn the probabilistic paradigm of ML:
